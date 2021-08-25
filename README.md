@@ -1,1 +1,1 @@
-# Xrush.py
+# Xrush
