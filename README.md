@@ -1,2 +1,6 @@
 cd Xrush.py
-python2 Xrush.py
+
+
+
+
+python Xrush.py
